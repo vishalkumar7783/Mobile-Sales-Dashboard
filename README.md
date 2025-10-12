@@ -15,7 +15,7 @@ Monitor and evaluate mobile sales performance across regions, brands, and models
 ## 📊 Data Source
 Source: Internal sales and customer transaction databases
 
-Data Includes:
+*Data Includes*:
 - Sales revenue and transaction metrics
 - Customer ratings (1–5 scale)
 - Brand, city, and model distribution
