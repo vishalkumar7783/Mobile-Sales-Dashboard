@@ -31,4 +31,4 @@ Data Includes:
 ## 📸 Dashboard Preview
 
 - Dashboard Preview
-![Dashboard Preview](https://github.com/vikashsharma27/Mobile-Sales-dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
+![Dashboard Preview](https://github.com/vishalkumar7783/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
